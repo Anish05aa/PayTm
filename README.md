@@ -18,7 +18,7 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/Ayush03K/patym.git
    cd patym
-   ```
+   ``
 
 2. **Backend Setup**:
    Navigate to the `backend` directory:
