@@ -3,7 +3,7 @@
 # PayTm
 
 ## About
-FlashPay is a full-stack application inspired by digital payment platforms like PayTM. It implements features such as user authentication, account management, and secure transactions using modern web technologies like **Node.js**, **MongoDB**, **React**, and **JWT (JSON Web Token)**.
+PayTm is a full-stack application inspired by digital payment platforms like PayTM. It implements features such as user authentication, account management, and secure transactions using modern web technologies like **Node.js**, **MongoDB**, **React**, and **JWT (JSON Web Token)**.
 
 ## Features
 - User Registration and Login
